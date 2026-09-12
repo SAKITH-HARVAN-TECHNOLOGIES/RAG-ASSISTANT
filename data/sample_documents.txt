@@ -1,0 +1,3 @@
+Simple RAG Assistant sample document
+
+Retrieval-augmented generation combines document search with language generation. A retriever finds relevant text chunks, and the language model uses those chunks to answer a question. This application uses Gemini embeddings, a FAISS vector store, and a Gemini chat model.
